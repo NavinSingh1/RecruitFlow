@@ -80,5 +80,3 @@ client/src
 
 Errors: `{ "message": "...", "errors": [{field, message}] }` with 400 / 401 / 403 / 404 / 409.
 
-## Possible next steps
-Email notifications, refresh tokens, pagination UI, file storage on S3, calendar invites.
